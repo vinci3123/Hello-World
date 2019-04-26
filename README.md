@@ -11,3 +11,11 @@ graph LR
         a1-->a2
 end
 ```
+
+<!--flow-->
+```flow
+s=>start: 开始
+e=>end: 结束
+op1=>operation: op1
+s->op1->e
+```
